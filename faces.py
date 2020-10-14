@@ -1,4 +1,4 @@
-"""import numpy as np
+import numpy as np
 import cv2
 
 cap = cv2.VideoCapture(0)
@@ -14,7 +14,7 @@ while(True):
 
 
 cap.release()
-cv2.destroyAllWindows()"""
+cv2.destroyAllWindows()
 
 # Python program to explain time.time_ns() method
 
